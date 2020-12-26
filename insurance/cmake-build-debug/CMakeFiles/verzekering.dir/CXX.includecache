@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/frederic/Documents/Informatica/IP/Huistaken/verzekering/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+ctype.h
+-
+map
+-
+
