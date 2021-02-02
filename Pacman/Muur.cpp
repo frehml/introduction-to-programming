@@ -1,5 +1,4 @@
 //
-// Created by Frederic Hamelink on 06/12/2020.
 //
 
 #include "Muur.h"
