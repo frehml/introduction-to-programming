@@ -1,6 +1,3 @@
-//
-// Created by Frederic Hamelink on 06/12/2020.
-//
 
 #ifndef HUISTAAK8_GHOST_H
 #define HUISTAAK8_GHOST_H
