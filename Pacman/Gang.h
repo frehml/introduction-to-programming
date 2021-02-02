@@ -1,5 +1,5 @@
 //
-// Created by Frederic Hamelink on 06/12/2020.
+
 //
 
 #ifndef HUISTAAK8_GANG_H
